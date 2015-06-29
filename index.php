@@ -40,6 +40,7 @@
 	<h2>Services</h2>
 	<ul>
 		<li><a href="http://dogeipsum.com">Doge Ipsum</a></li>
+		<li><a href="http://apk.kother.io">APK</a></li>
 	</ul>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
