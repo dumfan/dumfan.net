@@ -1,0 +1,12 @@
+{
+    "name": "dumfan.net",
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/digitalocean": "^2.0.0",
+        "@pulumi/docker": "^2.2.3",
+        "@pulumi/kubernetes": "^2.3.1",
+        "@pulumi/pulumi": "^2.0.0"
+    }
+}

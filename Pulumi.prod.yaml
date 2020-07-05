@@ -1,0 +1,6 @@
+config:
+  digitalocean:token:
+    secure: AAABAHrP85DgsWPQ0U6w3x6F/FANHkS7d4bGkmfANU1/Mvu7ADsKeaIoGr8c1Xnt1yVRbqk1VuZg/g3xylnM/D1uIRH9P10MdtvXwYhiCx8cxqwS0VR1VlnrOSYK8u7q
+  dumfan.net:dockerPassword:
+    secure: AAABACBoljPeI7Yq5RrGECKqT71MuIY7jKH5FzXsFLJwtoLL8z9pCq2ClIcGz7yy
+  dumfan.net:domainName: www.dumfan.net
